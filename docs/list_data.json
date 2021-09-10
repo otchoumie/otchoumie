@@ -2,18 +2,21 @@
 	"Latest Shows": [{
 		"Title": "The Chair",
 		"Actors": "Sandra Oh, Jay Duplass, Holland Taylor, and Nana Mensah",
+
 		"Streaming Service": "Netflix",
 		"Year": "2021"
 	},
 	{
 		"Title": "LA's Finest",
 		"Actors": "Gabrielle Union, Jessica Alba, Zack Gilford, Duane Martin, ",
+
 		"Streaming Service": "Netflix",
 		"Year": "2019"
 	},
 	{
 		"Title": "Truth Be Told",
 		"Actors": "Octavia Spencer, Mekhi Phifer, Aaron Paul,",
+
 		"Streaming Service": "Apple TV",
 		"Year": "2019"
 	},
@@ -26,6 +29,7 @@
 	{
 		"Title": "Nine Perfect Strangers",
 		"Actors": "Nicole Kidman, Samara Weaving, Melissa McCarthy, Regina Hall, Tiffany Boone ",
+		
 		"Streaming Service": "Hulu",
 		"Year": "2021"
 	}]
